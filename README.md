@@ -1,3 +1,6 @@
+# Fork info
+Fork for Laravel 6+ (Carbon 2).
+
 # Maintainers needed
 Sorry, I have not much time supporting this repo. Also I rarely work with Laravel now, so new maintainers are needed.
 
